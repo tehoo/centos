@@ -1,1 +1,1 @@
-# centos
+# centos 7 
